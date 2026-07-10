@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My Contribution Graph
-
 <!-- [game-name] -->
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eirikur-ari/eirikur-ari/output/pacman-contribution-graph-dark.svg">
