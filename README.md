@@ -1,22 +1,16 @@
 ## Howdy 👋
 
-<!--
-**eirikur-ari/eirikur-ari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Eiki, a Software developer from Iceland 🇮🇸 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- [game-name] -->
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eirikur-ari/eirikur-ari/output/bomberman-contribution-graph-dark.svg">
     <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/eirikur-ari/eirikur-ari/output/eirikur-ari-contribution-graph.svg">
 </picture>
+
+---
+Ways to contact me! 🤙
+
+- 📫 <eirikur@geymgengill.com>
+- 💬 [LinkedIn/eirikur-ari](https://www.linkedin.com/in/eirikur-ari)
+---
+⚡ I am also on Codeberg via [codeberg.org/eirikur-ari](https://codeberg.org/eirikur-ari)
