@@ -11,5 +11,5 @@ Ways to contact me! 🤙
 
 - 📫 <eirikur@geymgengill.com>
 - 💬 [LinkedIn/eirikur-ari](https://www.linkedin.com/in/eirikur-ari)
----
+
 ❗ I am also on Codeberg via [codeberg.org/eirikur-ari](https://codeberg.org/eirikur-ari)
