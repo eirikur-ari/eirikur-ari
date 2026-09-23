@@ -1,6 +1,6 @@
 ## Howdy 👋
 
-I am Eiki, a Software developer from Iceland 🇮🇸 
+I am Eiki, a software developer from Iceland 🇮🇸 
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eirikur-ari/eirikur-ari/output/bomberman-contribution-graph-dark.svg">
